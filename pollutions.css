@@ -1,0 +1,31 @@
+
+body{
+	margin-right: 90px;
+	margin-left: 90px;
+	background-image: url("https://bestanimations.com/media/nature/813001014beautiful-forest-waterfall-rocks-nature-animated-gif.gif");
+	background-repeat: no-repeat;		
+	background-size: 1350px 4700px;
+	border-style: ridge;
+	fill: blue;
+}
+
+img{
+	border: 8px solid #000;
+	border-radius: 25px;
+}
+
+p{
+	font-family: Arial, Helvetica, Sans-serif
+}
+
+h1{
+	color: green;
+	font-family: Papyrus, Copperplate, Fantasy
+}
+
+.transbox{
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
