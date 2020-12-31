@@ -4,7 +4,7 @@ body{
 	margin-left: 90px;
 	background-image: url("https://bestanimations.com/media/nature/813001014beautiful-forest-waterfall-rocks-nature-animated-gif.gif");
 	background-repeat: no-repeat;		
-	background-size: 1350px 4700px;
+	background-size: 1350px 5500px;
 	border-style: ridge;
 	fill: blue;
 }
@@ -21,6 +21,10 @@ p{
 h1{
 	color: green;
 	font-family: Papyrus, Copperplate, Fantasy
+}
+
+h2{
+	font-family: Copperplate, Impact, Fantasy
 }
 
 .transbox{
